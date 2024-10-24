@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Constants
-BASE_API_URL = "http://68.183.143.199:7861"
+BASE_API_URL = "http://68.183.143.199:7860"
 FLOW_ID = "7e8111b0-13b8-45e2-a47b-3f7392715314"
 ENDPOINT = ""  # Use the endpoint from your Langflow setup
 background_image_url = "https://raw.githubusercontent.com/oyasizaki/MDX/29d0be7b087b6adb22a85677e50fb0a110b1f30b/AI.jpg"  # Replace with your image URL
